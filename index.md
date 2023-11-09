@@ -1,5 +1,5 @@
 # Index
-## Introduction
+## [Introduction](introduction.html)
 ## Module 1 : Data and how to get it.
 ## Module 2 : Get data and preparation.
 ## Module 3 : Make sense out of data, model making.
