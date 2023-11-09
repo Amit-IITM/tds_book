@@ -7,10 +7,4 @@ INTRODUCTION
 - I (Amit Kumar Gupta, currently a TA (teaching assistant) of this subject) am trying to cover all topics of this subject, taught in course. Additionally I'll cover all pre-requisites and other essential content. If you feel that something is missing or need to be added then feel free to drop an email to me.
   
 
-<div style="text-align: right"Thank you,<br>Amit Kumar Gupta<br>
-
-TDS - TA<br>
-
-[guptamit43@gmail.com](guptamit43@gmail.com)>
-
-</div>
+<div align="right">Thank you,<br>Amit Kumar Gupta<br>TDS - TA<br>[guptamit43@gmail.com](guptamit43@gmail.com)</div>
