@@ -3,7 +3,7 @@
 ## 1. [Introduction](introduction.html)
 
 ## 2. Module 1 : Data and how to get it.
-  1. Some basic HTML, website structure and inspect elements.
+  1. [Some basic HTML, website structure and inspect elements.](Some basic HTML, website structure and inspect elements.html)
   2. Scrape a simple website by Beautiful Soup.
   3. Scrape a site where you need to login.
   4. BBC weather location with Python
