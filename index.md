@@ -4,7 +4,7 @@
 
 ## 2. Module 1 : Data and how to get it.
   1. Some basic HTML, website structure and inspect elements.
-  2. Scrape a simple website by Beautiful Soup.
+  2. [Scrape a simple website by Beautiful Soup.](Scrape_a_simple_website_by_Beautiful_Soup.md)
   3. Scrape a site where you need to login.
   4. BBC weather location with Python
   5. BBC weather data
