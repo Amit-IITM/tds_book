@@ -4,3 +4,5 @@ For now I am just pasting a simple code which I taught in my TA sessions and thi
 <br>
 Also no copy pasting folks -_- <br> Write your code by yourself.
 <hr>
+[Link to Collab notebook : Scrape a simple website by Beautiful Soup](https://colab.research.google.com/drive/1e6c7chKeixDd9KHLwma9jlLKeAHX8EaZ?usp=sharing)
+Also read #comments carefully, I wrote useful instructions there.
