@@ -36,7 +36,7 @@
 ## 6. Further reading
 
 <script src="https://utteranc.es/client.js"
-        repo="[ENTER REPO HERE]"
+        repo="Amit-IITM / tds_book"
         issue-term="pathname"
         label="Comments"
         theme="github-light"
