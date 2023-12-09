@@ -37,7 +37,7 @@
 
 <script src="https://utteranc.es/client.js"
         repo="Amit-IITM / tds_book"
-        issue-term="pathname"
+        issue-term="tds_book/index.md"
         label="Comments"
         theme="github-light"
         crossorigin="anonymous"
