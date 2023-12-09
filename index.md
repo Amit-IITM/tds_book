@@ -34,3 +34,12 @@
 ## 5. Module 4 : Tell a story, deploy your model.
 
 ## 6. Further reading
+
+<script src="https://utteranc.es/client.js"
+        repo="[ENTER REPO HERE]"
+        issue-term="pathname"
+        label="Comments"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
