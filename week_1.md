@@ -1,11 +1,8 @@
 ## Lec 1.1 Discover the data - Introduction
 
-3 things to learn :
+3 Goals :
 - What are the different sources of datasets, where can you find them ?
 - What are the different kinds of data sets ?
-	- Structured
-	- Unstructured
-	- Semi-structured
 - In each data set what kind of values you can find.
 
 ## Lec 1.2 Sources of Data
@@ -32,20 +29,18 @@
 		- Maybe you need to pay for it, buy it from some organization.
 		- It can include Salary of employees, attendance record, list of employees, product details, performance etc.
 		- These datasets are very organized
-      -  Paid datasets, There are many organization which collects and sell data on demand.
-	      - They are more reliable and useful.
+      -  Paid datasets, There are many organization which collects and sell data on demand. They are more reliable and useful.
 - Personal Data
 	- very interesting and emerging field.
 	- data in you or in your devices. Your call log, music and video history, shopping history etc. messages, used words, 
 	- only that person has full access to this data.
-	- It can include not only digital data but other data too, like habits, pen-paper journal, sleep data, food eating , everything imaginable.
-	- All apps are collecting data,
+	- It can include not only digital data but other data too, like habits, pen-paper journal, sleep data, food eating , everything imaginable. All apps are collecting data.
 
 ## Lec 1.3 Type of datasets
 
 3 types of data sets
 - Structured
-	- Where you know the schema, Structure, fields, type are defined and there is no ambiguity and uncertainty. Example table in database
+	- Where you know the schema, Structure, fields, type are defined and there is no ambiguity and uncertainty. Example : tables in database
 	- Schema is a must
 	- we know columns and also the type of values of data in columns
 	- sometimes Structured data also have inter-relationship, example : one common column in many tables, which works as an element of relationship.. With help of this common column we can join all tables of whole dataset.
@@ -53,26 +48,23 @@
 	- Shapefiles. ( geographic data ). very structured
 - Semi Structured
 	- Json file, which have fields and values, but it's not necessary that they have some logic.
-	- PDF file and document files.
-		- these tables contain different kind of information but it's structure may be complex. it may not entirely tabular format.
+	- PDF file and document files. These tables contain different kind of information but it's structure may be complex. it may not entirely tabular format.
 	- Wikipedia page is also an example of Semi-structured dataset. A wiki page contains text and images and table. tables are structured but text part is not structured. 
 	- another example is Emails and messages. on surface email looks like just a written text but on software level it have structure. structure about sender, receiver, ip address etc. but written text have no structure.
 	-  Container format, Zip files, archive. these are folders. in these folders you can have one highly structured spreadsheet and one unstructured text file in a same folder. so it's semi structured.
-	- 
+   
 - Unstructured
 	- When we know nothing about data. e.g. photo or text.
 	- Audio, video.
 	- It's hard to find meaningful information from such files.
 	- 
 
-
-* But this datasets classification is not binary classification
 * one of our main task is to extract meaningful information from unstructured data. for it we need to convert unstructured data into structured data.
 
 ## Lec 1.4 Types of Data
 
 fields in datasets belongs to several types. we can roughly bucket them in 3 categories.
-- categorical
+1. categorical
 	- Mostly text.
 	- few computations, you can list them, sort them.
 	- example
@@ -81,13 +73,13 @@ fields in datasets belongs to several types. we can roughly bucket them in 3 cat
 		- ordered categorical : Low, medium, high
 		- cyclical sequences : days of week, months
 		- Unstructured. similar to unordered but they don't have specific set of values. It can be anything.
-- numerical
+2. numerical
 	- numbers, follows rules of mathematics.
 	- you can apply series of operations on them
 	- add, subtract, multiply etc.
 	- example
 		- simple numbers, integers, floats, real numbers. any mathematical numbers
-- composite
+3. composite
 	- You can perform even more operations
 	- they can have special characters.
 	- have multiple elements in some structure.
