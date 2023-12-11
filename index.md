@@ -14,6 +14,7 @@
 ## 1. [Introduction](introduction.html)
 
 ## 2. Module 1 : Data and how to get it.
+  0. [Week 1 : Theory about data](week_1.md)
   1. Some basic HTML, website structure and inspect elements.
   2. [Scrape a simple website by Beautiful Soup.](Scrape_a_simple_website_by_Beautiful_Soup.md)
   3. [Scrape a site where you need to login : MovieLens](scrape_movielens.md)
