@@ -91,5 +91,3 @@ fields in datasets belongs to several types. we can roughly bucket them in 3 cat
 		- Specialized data like, currency, IP address.
 			- currency are just numbers but specialized with some prefix.
 	- Composite can have all properties of categorical and numerical, plus a whole lot more.
-
-## Extra :
