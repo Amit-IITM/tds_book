@@ -35,12 +35,3 @@
 ## 5. Module 4 : Tell a story, deploy your model.
 
 ## 6. Further reading
-
-<script src="https://utteranc.es/client.js"
-        repo="Amit-IITM / tds_book"
-        issue-term="tds_book/index.md"
-        label="Comments"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
